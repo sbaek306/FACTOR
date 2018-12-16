@@ -3,7 +3,10 @@ Activities" by Jiang, F., Baek, S., Ho, Y.-Y., and Ma, Y. All files ended with .
 
 
 In the folder "simu1", there are codes for Simulation 1. 
+
 In the folder "simu2", there are codes for Simulation 2. 
+
 In the folder "simu3", there are codes for Simulation 3.
+
 In the folder "real data", there are codes for real data analysis.
 
