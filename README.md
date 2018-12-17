@@ -7,6 +7,8 @@ In the folder "simu1", there are codes for Simulation 1.
 In the folder "simu2", there are codes for Simulation 2. 
 
 In the folder "simu3", there are codes for Simulation 3.
+B*.dat is files for the estimated loading from real data.
 
 In the folder "real data", there are codes for real data analysis.
+
 
